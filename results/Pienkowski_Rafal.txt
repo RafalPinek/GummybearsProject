@@ -1,1 +1,6 @@
-initialcommit
+DarkRed, BrightRed, Green, Orange, White, Yellow 
+3, 3, 3, 3, 2, 3
+8, 9, 0, 0, 0, 0
+0, 0, 5, 19, 13, 15
+7, 6, 3, 12, 8, 10
+2, 3, 5, 5, 4, 6
